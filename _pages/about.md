@@ -14,6 +14,7 @@ Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard E
 
 ### Works in Progress
 - Seeing is Believing: Inequality and the Impact of Television on Hispanics
+- The Unintended Consequences of Changing Social Norms (with George Beknazar-Yuzbashev)
 
 
 <!-- ---
