@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Andrew Kao"
   avatar           : "profile.png"
-  bio              : "Not yet a bio"
+  bio              : "Predoc at Harvard Econ"
   location         : "Cambridge, MA"
-  employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  employer         : 
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
