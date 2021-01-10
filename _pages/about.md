@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am currently a pre-doctoral fellow working with Professor David Yang at Harvard Economics and an affiliate at [Evidence for Policy Design](https://epod.cid.harvard.edu/person/andrew-kao). My current research interests include political economy and development. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. 
+Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard Economics and an affiliate at [Evidence for Policy Design](https://epod.cid.harvard.edu/person/andrew-kao). My current research interests include political economy and development. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. 
+
+## Research
+
+### Works in Progress
+- Seeing is Believing: Inequality and the Impact of Television on Hispanics
 
 
 <!-- ---
