@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "CV"
+    url: https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2021-10-11.pdf
+
+  - title: "Fiction"
+    url: /fiction/
+    
   # - title: "Publications"
   #   url: /publications/
 
