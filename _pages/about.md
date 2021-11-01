@@ -13,7 +13,7 @@ Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard E
 ## Research
 
 ### Working papers
-- [AI-tocracy](https://andrew-kao.github.io/files/aitocracy_20210920.pdf) (with Martin Beraja, David Yang, and Noam Yuchtman)
+- [AI-tocracy](https://andrew-kao.github.io/files/aitocracy_draft.pdf) (with Martin Beraja, David Yang, and Noam Yuchtman)
 
 ### Works in progress
 - Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap
