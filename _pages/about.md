@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard Economics and an affiliate at [Evidence for Policy Design](https://epod.cid.harvard.edu/person/andrew-kao). My current research interests include political economy and development. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2021-10-11.pdf).
+Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard Economics and an affiliate at [Evidence for Policy Design](https://epod.cid.harvard.edu/person/andrew-kao). My current research interests include political economy and development. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2021-11-16).
 
 ## Research
 
 ### Working papers
-- [AI-tocracy](https://andrew-kao.github.io/files/aitocracy_draft.pdf) (with Martin Beraja, David Yang, and Noam Yuchtman)
+- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_draft.pdf) with Martin Beraja, David Yang, and Noam Yuchtman
 
 ### Works in progress
-- [Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap](https://andrew-kao.github.io/files/sltv_draft.pdf)
-- The Unintended Consequences of Changing Social Norms (with George Beknazar-Yuzbashev)
+- ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)
+- "The Unintended Consequences of Changing Social Norms" with George Beknazar-Yuzbashev
 
+### Policy Articles
+- “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxEU column](https://voxeu.org/article/autocratic-ai-dystopias-science-fiction-social-science-fact) (December 2021)
 
 <!-- ---
 permalink: /
