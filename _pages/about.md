@@ -16,7 +16,7 @@ Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard E
 - ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_draft.pdf) with Martin Beraja, David Yang, and Noam Yuchtman
 
 ### Works in progress
-- ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)
+- ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
 - "The Unintended Consequences of Changing Social Norms" with George Beknazar-Yuzbashev
 
 ### Policy Articles
