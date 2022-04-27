@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard Economics and an affiliate at [Evidence for Policy Design](https://epod.cid.harvard.edu/person/andrew-kao). My current research interests include political economy and development. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2022-01-16.pdf).
+Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard Economics and an affiliate at [Evidence for Policy Design](https://epod.cid.harvard.edu/). My current research interests include political economy and development. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2022-01-16.pdf).
 
 ## Research
 
@@ -17,6 +17,7 @@ Hello! I am a pre-doctoral fellow working with Professor David Yang at Harvard E
 
 ### Works in progress
 - ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
+- "Exporting the Surveillance State via Trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman
 - "The Unintended Consequences of Changing Social Norms" with George Beknazar-Yuzbashev
 
 ### Policy Articles
