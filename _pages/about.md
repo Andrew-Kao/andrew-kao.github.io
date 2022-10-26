@@ -13,7 +13,7 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 ## Research
 
 ### Working papers
-- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_draft.pdf) with Martin Beraja, David Yang, and Noam Yuchtman
+- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022)
 
 ### Works in progress
 - ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
