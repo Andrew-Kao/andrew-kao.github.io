@@ -13,13 +13,13 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 ## Research
 
 ### Working papers
-- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022) —- _conditionally accepted at the Quarterly Journal of Economics_
+- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022) — _Conditionally accepted at the Quarterly Journal of Economics_
     - Press: [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/)
 
 ### Works in progress
 - ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
 - "Exporting the Surveillance State via Trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman
-- "The Unintended Consequences of Changing Social Norms" with George Beknazar-Yuzbashev
+
 
 ### Policy Articles
 - “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxEU column](https://voxeu.org/article/autocratic-ai-dystopias-science-fiction-social-science-fact) (December 2021)
