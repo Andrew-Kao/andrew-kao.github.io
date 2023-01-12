@@ -16,7 +16,7 @@ sitemap: false
  -->
 
 <button onclick="myFunction()">Click Me</button>
-<div id="myDIV">
+<div id="myDIV" style="display:none">
   This is my DIV element.
 </div> 
 
