@@ -7,12 +7,18 @@ sitemap: false
 ---
 
 
-<script type="text/html">
+<!-- <script type="text/html">
    <button onclick="myFunction()">Click Me</button>
   <div id="myDIV">
     This is my DIV element.
   </div> 
 </script>
+ -->
+
+<button onclick="myFunction()">Click Me</button>
+<div id="myDIV">
+  This is my DIV element.
+</div> 
 
 <script type="text/javascript">
   function myFunction() {
