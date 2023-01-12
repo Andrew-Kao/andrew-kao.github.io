@@ -7,17 +7,10 @@ sitemap: false
 ---
 
 
-<!-- <script type="text/html">
-   <button onclick="myFunction()">Click Me</button>
-  <div id="myDIV">
-    This is my DIV element.
-  </div> 
-</script>
- -->
 
-<button onclick="myFunction()">Click Me</button>
-<div id="myDIV" style="display:none">
-  This is my DIV element.
+<button class="btn--info" onclick="myFunction()">Abstract</button>
+<div id="myDIV" class="notice--info" style="display:none">
+  Abstract text
 </div> 
 
 <script type="text/javascript">
