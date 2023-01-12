@@ -7,8 +7,21 @@ sitemap: false
 ---
 
 
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+</style>  
 
-<button class="btn--info" onclick="myFunction()">Abstract</button>
+<!-- class="btn--info" -->
+<button  onclick="myFunction()">Abstract</button>
 <div id="myDIV" class="notice--info" style="display:none">
   Abstract text
 </div> 
