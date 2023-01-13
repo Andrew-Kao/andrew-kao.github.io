@@ -13,12 +13,17 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 ## Research
 
 ### Working papers
-- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022) — _Conditionally accepted at the Quarterly Journal of Economics_
+- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022) — _Conditionally accepted at the Quarterly Journal of Economics_  <a href="#!" class="btn" onclick="show_aitocracy()">Abstract</a>
     - Press: [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/)
+<div id="aitocracy" class="notice--info" style="display:none">
+  Recent scholarship has suggested that artificial intelligence technology and autocratic regimes may be mutually reinforcing. We test for such a mutually reinforcing relationship in the context of facial recognition AI in China. To do so, we gather comprehensive data on AI firms and government procurement contracts, as well as on social unrest across China during the last decade. We first show that autocrats benefit from AI: local unrest leads to greater government procurement of facial recognition AI as a new technology of political control, and increased AI procurement indeed suppresses subsequent unrest. We then show that AI innovation benefits from autocrats’ suppression of unrest: the contracted AI firms innovate more both for the government and commercial markets, and are more likely to export their products; and non-contracted AI firms do not experience detectable negative spillovers. Taken together, these results suggest the possibility of sustained AI innovation under the Chinese regime: AI innovation entrenches the regime, and the regime’s investment in AI for political control stimulates further frontier innovation.
+</div> 
 
-- "Exporting the Surveillance State via Trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman
+- "Exporting the Surveillance State via Trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman  <a href="#!" class="btn" onclick="show_exportai()">Abstract</a>
   - Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/) (January 2023)
-
+<div id="exportai" class="notice--info" style="display:none">
+  What are the international ramifications of China’s emergent leadership in facial recog- nition AI? We collect global data on facial recognition AI trade deals and document two facts. First, we show that China has a comparative advantage in this surveillance technology. It is substantially more likely to export facial recognition AI than other countries, and particularly so as compared to other frontier technologies. This comparative advantage may stem in part from the Chinese government’s demand for the technology to support its surveillance state — a form of “home-market” effect — as well as Chinese firms’ access to large government datasets. Second, we find that autocracies and weak democracies are more likely to import facial recognition AI from China, in particular those lacking domestic AI investment or experiencing political unrest. No such political bias is observed in AI imports from the US or in imports of other frontier technologies from China. To the extent that China may be exporting its surveillance state via trade in AI, this can enhance and beget more autocracies abroad. Regulations of AI trade should thus be framed around regulations on products with global externalities.
+</div> 
 
 ### Works in progress
 - ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
@@ -27,6 +32,32 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 ### Policy Articles
 - “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxEU column](https://voxeu.org/article/autocratic-ai-dystopias-science-fiction-social-science-fact) (December 2021)
+
+
+
+<!-- SCRIPTS -->
+
+<script type="text/javascript">
+  function show_aitocracy() {
+  var x = document.getElementById("aitocracy");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+  x.style.display = "none";
+  }
+} 
+
+function show_exportai() {
+  var x = document.getElementById("exportai");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+  x.style.display = "none";
+  }
+} 
+</script>
+
+
 
 <!-- ---
 permalink: /
