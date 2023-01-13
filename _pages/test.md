@@ -23,7 +23,7 @@ sitemap: false
 
 <!-- class="btn--info" -->
 <!-- <button  onclick="myFunction()">Abstract</button> -->
-<a href="#!" class="btn--success" onclick="myFunction()">Abstract</a>
+<a href="#!" class="btn--danger" onclick="myFunction()">Abstract</a>
 <div id="myDIV" class="notice--info" style="display:none">
   Abstract text
 </div> 
