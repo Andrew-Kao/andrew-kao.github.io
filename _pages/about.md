@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy and development. Previously, I worked with Professor David Yang as a predoctoral fellow. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2022-01-16.pdf).
+Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy and development. I am also a affiliate at the [Center for American Political Studies](https://caps.gov.harvard.edu/). Previously, I worked with Professor David Yang as a predoctoral fellow. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2023-01-19.pdf).
 
 ## Research
 
