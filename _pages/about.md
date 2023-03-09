@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy and development. I am also a affiliate at the [Center for American Political Studies](https://caps.gov.harvard.edu/). Previously, I worked with Professor David Yang as a predoctoral fellow. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2023-01-19.pdf).
+Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy and development. I am also a affiliate at the [Center for American Political Studies](https://caps.gov.harvard.edu/). Previously, I worked with Professor David Yang as a predoctoral fellow. I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2023-03-09.pdf).
 
 ## Research
 
 ### Working papers
-- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022) — _Conditionally accepted at the Quarterly Journal of Economics_ 
+- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022) — _Forthcoming at The Quarterly Journal of Economics_ 
     - Press: [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/)
     - <a href="#!" class="btn" onclick="show_aitocracy()">Abstract</a>
 <div id="aitocracy" class="notice--info" style="display:none">
@@ -22,6 +22,7 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 - "Exporting the Surveillance State via Trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman 
   - Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/) (January 2023)
+  - Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)
   - <a href="#!" class="btn" onclick="show_exportai()">Abstract</a>
 <div id="exportai" class="notice--info" style="display:none">
   What are the international ramifications of China’s emergent leadership in facial recognition AI? We collect global data on facial recognition AI trade deals and document two facts. First, we show that China has a comparative advantage in this surveillance technology. It is substantially more likely to export facial recognition AI than other countries, and particularly so as compared to other frontier technologies. This comparative advantage may stem in part from the Chinese government’s demand for the technology to support its surveillance state — a form of “home-market” effect — as well as Chinese firms’ access to large government datasets. Second, we find that autocracies and weak democracies are more likely to import facial recognition AI from China, in particular those lacking domestic AI investment or experiencing political unrest. No such political bias is observed in AI imports from the US or in imports of other frontier technologies from China. To the extent that China may be exporting its surveillance state via trade in AI, this can enhance and beget more autocracies abroad. Regulations of AI trade should thus be framed around regulations on products with global externalities.
