@@ -13,7 +13,7 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 ## Research
 
 ### Working papers
-- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  (October 2022) — _Forthcoming at The Quarterly Journal of Economics_ 
+- ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  — _Quarterly Journal of Economics_, August 2023 
     - Press: [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/)
     - <a href="#!" class="btn" onclick="show_aitocracy()">Abstract</a>
 <div id="aitocracy" class="notice--info" style="display:none">
