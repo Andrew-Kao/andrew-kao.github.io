@@ -12,7 +12,7 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 ## Research
 
-### Working papers
+### Publications
 - ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  — _Quarterly Journal of Economics_, August 2023 
     - Press: [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/)
     - <a href="#!" class="btn" onclick="show_aitocracy()">Abstract</a>
@@ -20,6 +20,7 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
   Recent scholarship has suggested that artificial intelligence technology and autocratic regimes may be mutually reinforcing. We test for such a mutually reinforcing relationship in the context of facial recognition AI in China. To do so, we gather comprehensive data on AI firms and government procurement contracts, as well as on social unrest across China during the last decade. We first show that autocrats benefit from AI: local unrest leads to greater government procurement of facial recognition AI as a new technology of political control, and increased AI procurement indeed suppresses subsequent unrest. We then show that AI innovation benefits from autocrats’ suppression of unrest: the contracted AI firms innovate more both for the government and commercial markets, and are more likely to export their products; and non-contracted AI firms do not experience detectable negative spillovers. Taken together, these results suggest the possibility of sustained AI innovation under the Chinese regime: AI innovation entrenches the regime, and the regime’s investment in AI for political control stimulates further frontier innovation.
 </div> 
 
+### Working papers
 - "Exporting the Surveillance State via Trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman 
   - Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/) (January 2023)
   - Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)
