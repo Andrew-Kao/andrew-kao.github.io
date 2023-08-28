@@ -14,7 +14,7 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 ### Publications
 - ["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman  — _Quarterly Journal of Economics_, August 2023 
-    - Press: [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/)
+    - Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-police.html?referringSource=articleShare) [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/) [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/03/why-china-has-an-edge-on-artificial-intelligence/) [IEEE Spectrum](https://spectrum.ieee.org/china-facial-recognition)
     - <a href="#!" class="btn" onclick="show_aitocracy()">Abstract</a>
 <div id="aitocracy" class="notice--info" style="display:none">
   Recent scholarship has suggested that artificial intelligence technology and autocratic regimes may be mutually reinforcing. We test for such a mutually reinforcing relationship in the context of facial recognition AI in China. To do so, we gather comprehensive data on AI firms and government procurement contracts, as well as on social unrest across China during the last decade. We first show that autocrats benefit from AI: local unrest leads to greater government procurement of facial recognition AI as a new technology of political control, and increased AI procurement indeed suppresses subsequent unrest. We then show that AI innovation benefits from autocrats’ suppression of unrest: the contracted AI firms innovate more both for the government and commercial markets, and are more likely to export their products; and non-contracted AI firms do not experience detectable negative spillovers. Taken together, these results suggest the possibility of sustained AI innovation under the Chinese regime: AI innovation entrenches the regime, and the regime’s investment in AI for political control stimulates further frontier innovation.
@@ -28,6 +28,14 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 <div id="exportai" class="notice--info" style="display:none">
   What are the international ramifications of China’s emergent leadership in facial recognition AI? We collect global data on facial recognition AI trade deals and document two facts. First, we show that China has a comparative advantage in this surveillance technology. It is substantially more likely to export facial recognition AI than other countries, and particularly so as compared to other frontier technologies. This comparative advantage may stem in part from the Chinese government’s demand for the technology to support its surveillance state — a form of “home-market” effect — as well as Chinese firms’ access to large government datasets. Second, we find that autocracies and weak democracies are more likely to import facial recognition AI from China, in particular those lacking domestic AI investment or experiencing political unrest. No such political bias is observed in AI imports from the US or in imports of other frontier technologies from China. To the extent that China may be exporting its surveillance state via trade in AI, this can enhance and beget more autocracies abroad. Regulations of AI trade should thus be framed around regulations on products with global externalities.
 </div> 
+
+- "Protests" with Davide Cantoni, David Yang, and Noam Yuchtman
+    - Prepared for the Annual Review of Economics. NBER [working paper](https://www.nber.org/papers/w31617)
+    - <a href="#!" class="btn" onclick="show_protests()">Abstract</a>
+<div id="protests" class="notice--info" style="display:none">
+  Citizens have long taken to the streets to demand change, expressing political views that may otherwise be suppressed. Protests have produced change at local, national, and international scales, including spectacular moments of political and social transformation. We document five new empirical patterns describing 1.2 million protest events across 218 countries between 1980 and 2020. First, autocracies and weak democracies experienced a trend break in protests during the Arab Spring. Second, protest movements also rose in importance following the Arab Spring. Third, protest movements geographically diffuse over time, spiking to their peak, before falling off. Fourth, a country’s year-to-year economic performance is not strongly correlated with protests; individual values are predictive of protest participation. Fifth, the US, China, and Russia are the most over-represented countries by their share of academic studies. We discuss each pattern’s connections to the existing literature and anticipate paths for future work.
+</div> 
+
 
 ### Works in progress
 - ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
@@ -54,6 +62,15 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 function show_exportai() {
   var x = document.getElementById("exportai");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+  x.style.display = "none";
+  }
+} 
+
+function show_protests() {
+  var x = document.getElementById("protests");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
