@@ -44,6 +44,7 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 
 ### Policy Articles
+- "How the surveillance state is exported through trade in AI" [VoxDev column](https://voxdev.org/topic/institutions-political-economy/how-surveillance-state-exported-through-trade-ai)
 - “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxDev column](https://voxdev.org/topic/institutions-political-economy/autocratic-ai-dystopias-science-fiction-or-social-science-fact) (May 2023)
 - “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxEU column](https://voxeu.org/article/autocratic-ai-dystopias-science-fiction-social-science-fact) (December 2021)
 
