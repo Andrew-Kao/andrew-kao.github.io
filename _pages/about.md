@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy, artificial intelligence, and development. I am also a affiliate at the [Center for American Political Studies](https://caps.gov.harvard.edu/). I graduated from the University of Chicago in 2020 with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2023-06-11.pdf).
+Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy, IO, and trade in the context of frontier technologies such as artificial intelligence. I am also a affiliate at the [Center for American Political Studies](https://caps.gov.harvard.edu/). I graduated from the University of Chicago with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2023-06-11.pdf).
 
 ## Research
 
