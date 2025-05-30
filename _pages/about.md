@@ -12,39 +12,41 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 
 ## Publications
-**["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf) with Martin Beraja, David Yang, and Noam Yuchtman**  — _Quarterly Journal of Economics (2023)_  
+**["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman  — _Quarterly Journal of Economics (2023)_  
 Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-police.html?referringSource=articleShare) [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/) [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/03/why-china-has-an-edge-on-artificial-intelligence/) [IEEE Spectrum](https://spectrum.ieee.org/china-facial-recognition) [MIT Technology Review](https://www.technologyreview.com/2023/10/24/1081074/ai-tocracy/)  
 <a href="#!" class="btn" onclick="show_aitocracy()">Abstract</a>
 <div id="aitocracy" class="notice--info" style="display:none">
   Recent scholarship has suggested that artificial intelligence technology and autocratic regimes may be mutually reinforcing. We test for such a mutually reinforcing relationship in the context of facial recognition AI in China. To do so, we gather comprehensive data on AI firms and government procurement contracts, as well as on social unrest across China during the last decade. We first show that autocrats benefit from AI: local unrest leads to greater government procurement of facial recognition AI as a new technology of political control, and increased AI procurement indeed suppresses subsequent unrest. We then show that AI innovation benefits from autocrats’ suppression of unrest: the contracted AI firms innovate more both for the government and commercial markets, and are more likely to export their products; and non-contracted AI firms do not experience detectable negative spillovers. Taken together, these results suggest the possibility of sustained AI innovation under the Chinese regime: AI innovation entrenches the regime, and the regime’s investment in AI for political control stimulates further frontier innovation.
 </div> 
 
-**["Protests"](https://andrew-kao.github.io/files/annurev-economics-protests.pdf) with Davide Cantoni, David Yang, and Noam Yuchtman** - _Annual Review of Economics (2024)_  
+**["Protests"](https://andrew-kao.github.io/files/annurev-economics-protests.pdf)** with Davide Cantoni, David Yang, and Noam Yuchtman - _Annual Review of Economics (2024)_  
 <a href="#!" class="btn" onclick="show_protests()">Abstract</a>
 <div id="protests" class="notice--info" style="display:none">
   Citizens have long taken to the streets to demand change, expressing political views that may otherwise be suppressed. Protests have produced change at local, national, and international scales, including spectacular moments of political and social transformation. We document five new empirical patterns describing 1.2 million protest events across 218 countries between 1980 and 2020. First, autocracies and weak democracies experienced a trend break in protests during the Arab Spring. Second, protest movements also rose in importance following the Arab Spring. Third, protest movements geographically diffuse over time, spiking to their peak, before falling off. Fourth, a country’s year-to-year economic performance is not strongly correlated with protests; individual values are predictive of protest participation. Fifth, the US, China, and Russia are the most over-represented countries by their share of academic studies. We discuss each pattern’s connections to the existing literature and anticipate paths for future work.
 </div> 
 
 
+
 ## Working papers
-**"Exporting the Surveillance State via Trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman**  
-NBER [working paper](https://www.nber.org/papers/w31676) (September 2023)  
-  - Previous versions: Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/) 
+**["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman  (May 2025)
+  - Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/) 
 Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)  
 <a href="#!" class="btn" onclick="show_exportai()">Abstract</a>
 <div id="exportai" class="notice--info" style="display:none">
-  We document three facts about the global diffusion of surveillance AI technology, and in particular, the role played by China. First, China has a comparative advantage in this technology. It is substantially more likely to export surveillance AI than other countries, and particularly so as compared to other frontier technologies. Second, autocracies and weak democracies are more likely to import surveillance AI from China. This bias is not observed in AI imports from the US or in imports of other frontier technologies from China. Third, autocracies and weak democracies are especially more likely to import China’s surveillance AI in years of domestic unrest. Such imports coincide with declines in domestic institutional quality more broadly. To the extent that China may be exporting its surveillance state via trade in AI, this can enhance and beget more autocracies abroad. This possibility challenges the view that economic integration is necessarily associated with the diffusion of liberal institutions. 
+  We collect comprehensive data on global trade in surveillance AI technology, and document three facts about its diffusion. First, China has a comparative advantage in this technology, exporting substantially more surveillance AI than other countries, particularly compared to other frontier technologies. Second, autocracies and weak democracies are more likely to import surveillance AI, and more likely to do so from China. Third, autocracies and weak democracies are especially likely to import China’s surveillance AI following domestic unrest. Such imports coincide with broader declines in domestic institutional quality, suggesting that China may be exporting its surveillance state via trade in AI.
 </div> 
 
-<!-- - "Puppetmasters or Pawns? The Power of Congressional Staffers" with Sara Ji
-  - Working paper [LINK]  (September 2024)
-  - <a href="#!" class="btn" onclick="show_staffers()">Abstract</a>
+
+[**"Puppetmasters or Pawns? The Power of Congressional Staffers"**](https://andrew-kao.github.io/files/Staffers_20250530.pdf) with Sara Ji  (May 2025)
+
+
+<a href="#!" class="btn" onclick="show_staffers()">Abstract</a>
 <div id="staffers" class="notice--info" style="display:none">
-  ABSTRACT
-</div>  -->
+   Members of Congress do not write their own bills---their staffers do. We estimate the productivity of personal staffers in the US House of Representatives. To do so, we extend the mover design to team settings where an individual's output is unobserved. We find that staffers account for at least 40\% of the gap in the number of bills written between high- and low-performing offices. In our setting, conventional estimation methods are either infeasible or misspecified and deliver estimates less than half as large. We analyze three factors related to the optimal composition of teams, finding that managers are less productive than other types of staffers in teams, diverse offices are more productive, and that staffers are more effective when paired with effective Representatives. Finally, we estimate staffer ideology and find that staffers help moderate ideological extremism within parties, while Representatives drive the majority of polarization.  
+</div> 
 
 **"Evaluating Large Language Models’ Capability to Launch Fully Automated and
-Personalized Phishing Campaigns: Validated on Human Subjects" with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier**  
+Personalized Phishing Campaigns: Validated on Human Subjects"** with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier  
 [Working paper](https://arxiv.org/abs/2412.00586]) (November 2024)  
 [2 min. summary](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns) Press: [Hacker News](https://news.ycombinator.com/item?id=42601681) [Zvi Moshowitz](https://thezvi.substack.com/p/ai-98-world-ends-with-six-word-story?open=false#%C2%A7they-took-our-jobs) [Daniel Miessler](https://newsletter.danielmiessler.com/p/ul-464) [MalwareBytes](https://www.malwarebytes.com/blog/news/2025/01/ai-supported-spear-phishing-fools-more-than-50-of-targets) [CivAI](https://civai.org/p/email-phishing)  
 <a href="#!" class="btn" onclick="show_spearphish()">Abstract</a>
@@ -53,10 +55,10 @@ Personalized Phishing Campaigns: Validated on Human Subjects" with Fredrik Heidi
 </div> 
 
 
-### Works in progress
-***"Puppetmasters or Pawns? The Power of Congressional Staffers" with Sara Ji***  
 
-***"Economic Espionage and Knowledge Diffusion Under US-China Rivalry" with Karthik Tadepalli***  
+## Works in progress
+
+**"Economic Espionage and Knowledge Diffusion Under US-China Rivalry"** with Karthik Tadepalli  
 
 <!-- ### Works in progress
 - ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
