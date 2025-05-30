@@ -37,13 +37,12 @@ Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-reco
 </div> 
 
 
-[**"Puppetmasters or Pawns? The Power of Congressional Staffers"**](https://andrew-kao.github.io/files/Staffers_20250530.pdf) with Sara Ji  (May 2025)
-
-
+[**"Puppetmasters or Pawns? The Power of Congressional Staffers"**](https://andrew-kao.github.io/files/Staffers_20250530.pdf) with Sara Ji  (May 2025)  
 <a href="#!" class="btn" onclick="show_staffers()">Abstract</a>
 <div id="staffers" class="notice--info" style="display:none">
    Members of Congress do not write their own bills---their staffers do. We estimate the productivity of personal staffers in the US House of Representatives. To do so, we extend the mover design to team settings where an individual's output is unobserved. We find that staffers account for at least 40\% of the gap in the number of bills written between high- and low-performing offices. In our setting, conventional estimation methods are either infeasible or misspecified and deliver estimates less than half as large. We analyze three factors related to the optimal composition of teams, finding that managers are less productive than other types of staffers in teams, diverse offices are more productive, and that staffers are more effective when paired with effective Representatives. Finally, we estimate staffer ideology and find that staffers help moderate ideological extremism within parties, while Representatives drive the majority of polarization.  
 </div> 
+
 
 **"Evaluating Large Language Models’ Capability to Launch Fully Automated and
 Personalized Phishing Campaigns: Validated on Human Subjects"** with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier  
