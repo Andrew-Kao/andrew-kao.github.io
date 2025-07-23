@@ -30,23 +30,22 @@ Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-po
 ## Working papers
 **["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman  (May 2025)  
 Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)  [Bulletin of the Atomic Scientists](https://thebulletin.org/2024/06/how-ai-surveillance-threatens-democracy-everywhere/)
-Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/) 
+Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/)  
 <a href="#!" class="btn" onclick="show_exportai()">Abstract</a>
 <div id="exportai" class="notice--info" style="display:none">
   We collect comprehensive data on global trade in surveillance AI technology, and document three facts about its diffusion. First, China has a comparative advantage in this technology, exporting substantially more surveillance AI than other countries, particularly compared to other frontier technologies. Second, autocracies and weak democracies are more likely to import surveillance AI, and more likely to do so from China. Third, autocracies and weak democracies are especially likely to import China’s surveillance AI following domestic unrest. Such imports coincide with broader declines in domestic institutional quality, suggesting that China may be exporting its surveillance state via trade in AI.
 </div> 
 
 
-[**"Puppetmasters or Pawns? The Power of Congressional Staffers"**](https://andrew-kao.github.io/files/Staffers_20250530.pdf) with Sara Ji  (May 2025)  
+[**"Puppetmasters or Pawns? The Power of Congressional Staffers"**](https://andrew-kao.github.io/files/Staffers_20250723.pdf) with Sara Ji  (July 2025)  
 <a href="#!" class="btn" onclick="show_staffers()">Abstract</a>
 <div id="staffers" class="notice--info" style="display:none">
    Members of Congress do not write their own bills---their staffers do. We estimate the productivity of personal staffers in the US House of Representatives. To do so, we extend the mover design to team settings where an individual's output is unobserved. We find that staffers account for at least 40% of the gap in the number of bills written between high- and low-performing offices. In our setting, conventional estimation methods are either infeasible or misspecified and deliver estimates less than half as large. We analyze three factors related to the optimal composition of teams, finding that managers are less productive than other types of staffers in teams, diverse offices are more productive, and that staffers are more effective when paired with effective Representatives. Finally, we estimate staffer ideology and find that staffers help moderate ideological extremism within parties, while Representatives drive the majority of polarization.  
 </div> 
 
 
-**"Evaluating Large Language Models’ Capability to Launch Fully Automated and
-Personalized Phishing Campaigns: Validated on Human Subjects"** with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier  
-[Working paper](https://arxiv.org/abs/2412.00586]) (November 2024)  
+[**"Evaluating Large Language Models’ Capability to Launch Fully Automated and
+Personalized Phishing Campaigns: Validated on Human Subjects"**(https://arxiv.org/abs/2412.00586]) with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier (November 2024)  
 [2 min. summary](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns) Press: [Hacker News](https://news.ycombinator.com/item?id=42601681) [Zvi Moshowitz](https://thezvi.substack.com/p/ai-98-world-ends-with-six-word-story?open=false#%C2%A7they-took-our-jobs) [Daniel Miessler](https://newsletter.danielmiessler.com/p/ul-464) [MalwareBytes](https://www.malwarebytes.com/blog/news/2025/01/ai-supported-spear-phishing-fools-more-than-50-of-targets) [CivAI](https://civai.org/p/email-phishing)  
 <a href="#!" class="btn" onclick="show_spearphish()">Abstract</a>
 <div id="spearphish" class="notice--info" style="display:none">
@@ -65,7 +64,7 @@ Personalized Phishing Campaigns: Validated on Human Subjects"** with Fredrik Hei
 
 
 ## Policy Articles
-- "How the surveillance state is exported through trade in AI" [VoxDev column](https://voxdev.org/topic/trade/how-surveillance-state-exported-through-trade-ai) (September 2023)
+- "How the surveillance state is exported through trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman. [VoxDev column](https://voxdev.org/topic/trade/how-surveillance-state-exported-through-trade-ai) (September 2023)
 - “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxDev column](https://voxdev.org/topic/institutions-political-economy/autocratic-ai-dystopias-science-fiction-or-social-science-fact) (May 2023)
 - “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxEU column](https://voxeu.org/article/autocratic-ai-dystopias-science-fiction-social-science-fact) (December 2021)
 
