@@ -45,7 +45,7 @@ Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Bro
 
 
 [**"Evaluating Large Language Models’ Capability to Launch Fully Automated and
-Personalized Phishing Campaigns: Validated on Human Subjects"**(https://arxiv.org/abs/2412.00586]) with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier (November 2024)  
+Personalized Phishing Campaigns: Validated on Human Subjects"**](https://arxiv.org/abs/2412.00586) with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier (November 2024)  
 [2 min. summary](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns) Press: [Hacker News](https://news.ycombinator.com/item?id=42601681) [Zvi Moshowitz](https://thezvi.substack.com/p/ai-98-world-ends-with-six-word-story?open=false#%C2%A7they-took-our-jobs) [Daniel Miessler](https://newsletter.danielmiessler.com/p/ul-464) [MalwareBytes](https://www.malwarebytes.com/blog/news/2025/01/ai-supported-spear-phishing-fools-more-than-50-of-targets) [CivAI](https://civai.org/p/email-phishing)  
 <a href="#!" class="btn" onclick="show_spearphish()">Abstract</a>
 <div id="spearphish" class="notice--info" style="display:none">
