@@ -28,7 +28,7 @@ Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-po
 
 
 ## Working papers
-**["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman  (May 2025)  
+**["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman - _Resubmission invited, American Economic Review (2025)_ 
 Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)  [Bulletin of the Atomic Scientists](https://thebulletin.org/2024/06/how-ai-surveillance-threatens-democracy-everywhere/)
 Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/)  
 <a href="#!" class="btn" onclick="show_exportai()">Abstract</a>
