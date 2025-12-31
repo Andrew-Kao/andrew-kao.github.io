@@ -28,8 +28,8 @@ Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-po
 
 
 ## Working papers
-**["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman - _Resubmission invited, American Economic Review (2025)_ 
-Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)  [Bulletin of the Atomic Scientists](https://thebulletin.org/2024/06/how-ai-surveillance-threatens-democracy-everywhere/)
+**["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman - _Resubmission invited, American Economic Review (2025)_  
+Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)  [Bulletin of the Atomic Scientists](https://thebulletin.org/2024/06/how-ai-surveillance-threatens-democracy-everywhere/)  
 Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/)  
 <a href="#!" class="btn" onclick="show_exportai()">Abstract</a>
 <div id="exportai" class="notice--info" style="display:none">
@@ -37,7 +37,7 @@ Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Bro
 </div> 
 
 
-[**"Puppetmasters or Pawns? The Power of Congressional Staffers"**](https://andrew-kao.github.io/files/Staffers_20250723.pdf) with Sara Ji  (July 2025)  
+[**"Puppetmasters or Pawns? The Power of Congressional Staffers"**](https://andrew-kao.github.io/files/Staffers_20250723.pdf) with Sara Ji  (2025)  
 <a href="#!" class="btn" onclick="show_staffers()">Abstract</a>
 <div id="staffers" class="notice--info" style="display:none">
    Members of Congress do not write their own bills---their staffers do. We estimate the productivity of personal staffers in the US House of Representatives. To do so, we extend the mover design to team settings where an individual's output is unobserved. We find that staffers account for at least 40% of the gap in the number of bills written between high- and low-performing offices. In our setting, conventional estimation methods are either infeasible or misspecified and deliver estimates less than half as large. We analyze three factors related to the optimal composition of teams, finding that managers are less productive than other types of staffers in teams, diverse offices are more productive, and that staffers are more effective when paired with effective Representatives. Finally, we estimate staffer ideology and find that staffers help moderate ideological extremism within parties, while Representatives drive the majority of polarization.  
@@ -45,7 +45,7 @@ Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Bro
 
 
 [**"Evaluating Large Language Models’ Capability to Launch Fully Automated and
-Personalized Phishing Campaigns: Validated on Human Subjects"**](https://arxiv.org/abs/2412.00586) with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier (November 2024)  
+Personalized Phishing Campaigns: Validated on Human Subjects"**](https://arxiv.org/abs/2412.00586) with Fredrik Heiding, Simon Lermen, Arun Vishwanath, and Bruce Schneier (2024)  
 [2 min. summary](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns) Press: [Hacker News](https://news.ycombinator.com/item?id=42601681) [Zvi Moshowitz](https://thezvi.substack.com/p/ai-98-world-ends-with-six-word-story?open=false#%C2%A7they-took-our-jobs) [Daniel Miessler](https://newsletter.danielmiessler.com/p/ul-464) [MalwareBytes](https://www.malwarebytes.com/blog/news/2025/01/ai-supported-spear-phishing-fools-more-than-50-of-targets) [CivAI](https://civai.org/p/email-phishing)  
 <a href="#!" class="btn" onclick="show_spearphish()">Abstract</a>
 <div id="spearphish" class="notice--info" style="display:none">
@@ -53,20 +53,28 @@ Personalized Phishing Campaigns: Validated on Human Subjects"**](https://arxiv.o
 </div> 
 
 
+[**"Economic Espionage and Innovation Restrictions"**](https://andrew-kao.github.io/files/Espionage_draft_20251231.pdf) with Karthik Tadepalli (2025)  
+<a href="#!" class="btn" onclick="show_espionage()">Abstract</a>
+<div id="espionage" class="notice--info" style="display:none">
+   We provide systematic evidence on the economic damages from espionage to US firms and industries. Compiling a comprehensive dataset of publicly disclosed espionage incidents from 1995-2024, we establish that espionage has substantial negative effects on targeted firms. In an event-study design, revenues and R&D expenditures at targeted firms decline by roughly 40% within five years, with effects persisting for up to a decade. These effects do not appear for firms unsuccessfully targeted for espionage, supporting a causal interpretation. These firm-level damages translate into measurable aggregate effects on US industry: exports in targeted sectors decline by 60% over a decade. Given these substantial damages, we investigate whether firms restrict knowledge sharing in response to espionage. Across a wide range of outcomes, we find no evidence of such restrictions. Firms do not reduce their patenting with foreign inventors, and do not discriminate in employment based on perceived espionage risk. Overall, espionage has clear economic harms to targeted firms and US industry, but firms are puzzlingly unresponsive in how they manage innovation.
+</div> 
+
+
+
+
 
 ## Works in progress
 
-**"Economic Espionage and Knowledge Diffusion Under US-China Rivalry"** with Karthik Tadepalli  
+**"The After Party: Electoral Consequences of Party Bans"** with Matthias Weigand  
+[Poster](https://andrew-kao.github.io/files/poster_party_bans.pdf)
 
-<!-- ### Works in progress
-- ["Seeing is Believing: Identity, Inequality, and the Impact of Television on the Hispanic Achievement Gap"](https://andrew-kao.github.io/files/sltv_draft.pdf)   [[slides](https://andrew-kao.github.io/files/sltv_slides.pdf)]
- -->
+
 
 
 ## Policy Articles
-- "How the surveillance state is exported through trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman. [VoxDev column](https://voxdev.org/topic/trade/how-surveillance-state-exported-through-trade-ai) (September 2023)
-- “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxDev column](https://voxdev.org/topic/institutions-political-economy/autocratic-ai-dystopias-science-fiction-or-social-science-fact) (May 2023)
-- “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxEU column](https://voxeu.org/article/autocratic-ai-dystopias-science-fiction-social-science-fact) (December 2021)
+- "How the surveillance state is exported through trade in AI" with Martin Beraja, David Yang, and Noam Yuchtman. [VoxDev column](https://voxdev.org/topic/trade/how-surveillance-state-exported-through-trade-ai) (2023)
+- “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxDev column](https://voxdev.org/topic/institutions-political-economy/autocratic-ai-dystopias-science-fiction-or-social-science-fact) (2023)
+- “Autocratic AI dystopias: From science fiction to social science fact” with Martin Beraja, David Yang, and Noam Yuchtman. [VoxEU column](https://voxeu.org/article/autocratic-ai-dystopias-science-fiction-social-science-fact) (2021)
 
 
 
@@ -111,6 +119,15 @@ function show_staffers() {
 
 function show_spearphish() {
   var x = document.getElementById("spearphish");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+  x.style.display = "none";
+  }
+} 
+
+function show_espionage() {
+  var x = document.getElementById("espionage");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
