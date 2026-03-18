@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy, IO, and trade in the context of frontier technologies such as artificial intelligence. I am also an affiliate at Harvard's [Center for American Political Studies](https://caps.gov.harvard.edu/) and [Center for International Development](https://www.hks.harvard.edu/centers/cid). I graduated from the University of Chicago with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2025-05-07.pdf).
+Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy, IO, and trade in the context of frontier technologies such as artificial intelligence. I am also an affiliate at Harvard's [Center for American Political Studies](https://caps.gov.harvard.edu/) and [Center for International Development](https://www.hks.harvard.edu/centers/cid). I graduated from the University of Chicago with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2025-11-06.pdf).
 
 
 ## Publications
@@ -52,10 +52,10 @@ Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Bro
 
 
 
-[**"Economic Espionage and Innovation Restrictions"**](https://andrew-kao.github.io/files/Espionage_draft_20251231.pdf) with Karthik Tadepalli (2025)  
+[**"Economic Espionage and Innovation Restrictions"**](https://andrew-kao.github.io/files/Espionage_draft_20260316.pdf) with Karthik Tadepalli (2025)  
 <a href="#!" class="btn" onclick="show_espionage()">Abstract</a>
 <div id="espionage" class="notice--info" style="display:none">
-   We provide systematic evidence on the economic damages from espionage to US firms and industries. Compiling a comprehensive dataset of publicly disclosed espionage incidents from 1995-2024, we establish that espionage has substantial negative effects on targeted firms. In an event-study design, revenues and R&D expenditures at targeted firms decline by roughly 40% within five years, with effects persisting for up to a decade. These effects do not appear for firms unsuccessfully targeted for espionage, supporting a causal interpretation. These firm-level damages translate into measurable aggregate effects on US industry: exports in targeted sectors decline by 60% over a decade. Given these substantial damages, we investigate whether firms restrict knowledge sharing in response to espionage. Across a wide range of outcomes, we find no evidence of such restrictions. Firms do not reduce their patenting with foreign inventors, and do not discriminate in employment based on perceived espionage risk. Overall, espionage has clear economic harms to targeted firms and US industry, but firms are puzzlingly unresponsive in how they manage innovation.
+   We provide systematic evidence on the economic damages from espionage to US firms and industries. Compiling a comprehensive dataset of publicly disclosed espionage incidents from 1995-2024, we establish that espionage has substantial negative effects on targeted firms. In an event-study design, revenues and R&D expenditures at targeted firms decline by roughly 40% within five years, with effects persisting for up to a decade. These effects do not appear for firms unsuccessfully targeted for espionage, supporting a causal interpretation. These firm-level damages translate into measurable aggregate effects on US industry: exports in targeted sectors decline by 40% over a decade. Given these substantial damages, we investigate whether firms restrict knowledge sharing in response to espionage. Across a wide range of outcomes, we find little evidence of such restrictions. Firms do not reduce their patenting with foreign inventors, do not discriminate in employment based on perceived espionage risk, do not change the geography of their business, and do not discuss how they adapt to espionage incidents. Overall, espionage has clear economic harms to targeted firms and US industry, but firms are puzzlingly unresponsive in how they manage innovation. 
 </div> 
 
 
@@ -65,7 +65,7 @@ Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Bro
 ## Works in progress
 
 **"The After Party: Electoral Consequences of Party Bans"** with Matthias Weigand  
-[Poster](https://andrew-kao.github.io/files/poster_party_bans.pdf)
+[AEA interview](https://www.aeaweb.org/conference/videos/2026/andrew_kao) [Poster](https://andrew-kao.github.io/files/poster_party_bans.pdf) 
 
 
 
