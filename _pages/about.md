@@ -34,6 +34,13 @@ Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-po
 </div> 
 
 
+[**"Evaluating AI Models’ Capability to Automate Voice Phishing Attacks"**](https://andrew-kao.github.io/files/llm_voicephish.pdf) with Fredrik Heiding, Claudio Mayrink Verdun, Simon Lermen, Vitor Albiero, Lauren Deason, Irina-Elena Veliche, and Christine Lehane - _Expert Systems with Applications (2026)_  
+<a href="#!" class="btn" onclick="show_voicephish()">Abstract</a>
+<div id="voicephish" class="notice--info" style="display:none">
+   Voice phishing (vishing) attacks have traditionally been limited by the need for human operators. The rapid emergence of high-quality AI voice synthesis and large language models (LLMs) reduces this bottleneck and enables scalable, automated scams. In this paper, we conduct a large-scale survey experiment (N=4100) and qualitative interviews (N=12) to assess U.S. adults’ susceptibility to AI-powered voice phishing attacks. Participants were exposed to audio recordings or transcripts of scam scenarios generated using leading voice models such as Llama Full Duplex (Llama FD), Sesame, Gemini, OAI AVM, Play.AI, and ElevenLabs and the corresponding human baselines. The results show high compliance rates. Up to 36% of participants would or might comply with phishing requests in the “relative-in-distress” category. Overall compliance rate across all five scam categories was 16.5%, a striking figure given the low cost and high scalability of AI-automated voice phishing. Caller persuasiveness was the strongest predictor of compliance and certain models (most notably Sesame) achieved ratings comparable to human voices, or sometimes even slightly surpassing them. Our economic analysis suggests that while human-operated vishing is unprofitable at US wages, AI-powered vishing appears to be economically viable for several models. The primary risk of present-day AI-enabled vishing thus lies in the economics of automation rather than novel or “superhuman” persuasive techniques, though these cannot be ruled out for future systems. This raises significant concerns for the design of AI systems, consumer protection, and model release policies.
+</div> 
+
+
 ## Working papers
 **["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman - _Resubmission invited, American Economic Review (2025)_  
 Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)  [Bulletin of the Atomic Scientists](https://thebulletin.org/2024/06/how-ai-surveillance-threatens-democracy-everywhere/)  
@@ -118,6 +125,15 @@ function show_staffers() {
 
 function show_spearphish() {
   var x = document.getElementById("spearphish");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+  x.style.display = "none";
+  }
+} 
+
+function show_voicephish() {
+  var x = document.getElementById("voicephish");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
