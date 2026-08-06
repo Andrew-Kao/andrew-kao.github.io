@@ -12,21 +12,24 @@ Hello! I am a PhD student in Economics at Harvard. My current research interests
 
 
 ## Publications
-**["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman  — _Quarterly Journal of Economics (2023)_  
+**["AI-tocracy"](https://andrew-kao.github.io/files/aitocracy_20221025.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman  
+_Quarterly Journal of Economics (2023)_    
 Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-police.html?referringSource=articleShare) [CSIS](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/) [Harvard Gazette](https://news.harvard.edu/gazette/story/2023/03/why-china-has-an-edge-on-artificial-intelligence/) [IEEE Spectrum](https://spectrum.ieee.org/china-facial-recognition) [MIT Technology Review](https://www.technologyreview.com/2023/10/24/1081074/ai-tocracy/)  
 <a href="#!" class="btn" onclick="show_aitocracy()">Abstract</a>
 <div id="aitocracy" class="notice--info" style="display:none">
   Recent scholarship has suggested that artificial intelligence technology and autocratic regimes may be mutually reinforcing. We test for such a mutually reinforcing relationship in the context of facial recognition AI in China. To do so, we gather comprehensive data on AI firms and government procurement contracts, as well as on social unrest across China during the last decade. We first show that autocrats benefit from AI: local unrest leads to greater government procurement of facial recognition AI as a new technology of political control, and increased AI procurement indeed suppresses subsequent unrest. We then show that AI innovation benefits from autocrats’ suppression of unrest: the contracted AI firms innovate more both for the government and commercial markets, and are more likely to export their products; and non-contracted AI firms do not experience detectable negative spillovers. Taken together, these results suggest the possibility of sustained AI innovation under the Chinese regime: AI innovation entrenches the regime, and the regime’s investment in AI for political control stimulates further frontier innovation.
 </div> 
 
-**["Protests"](https://andrew-kao.github.io/files/annurev-economics-protests.pdf)** with Davide Cantoni, David Yang, and Noam Yuchtman  — _Annual Review of Economics (2024)_  
+**["Protests"](https://andrew-kao.github.io/files/annurev-economics-protests.pdf)** with Davide Cantoni, David Yang, and Noam Yuchtman   
+_Annual Review of Economics (2024)_   
 <a href="#!" class="btn" onclick="show_protests()">Abstract</a>
 <div id="protests" class="notice--info" style="display:none">
   Citizens have long taken to the streets to demand change, expressing political views that may otherwise be suppressed. Protests have produced change at local, national, and international scales, including spectacular moments of political and social transformation. We document five new empirical patterns describing 1.2 million protest events across 218 countries between 1980 and 2020. First, autocracies and weak democracies experienced a trend break in protests during the Arab Spring. Second, protest movements also rose in importance following the Arab Spring. Third, protest movements geographically diffuse over time, spiking to their peak, before falling off. Fourth, a country’s year-to-year economic performance is not strongly correlated with protests; individual values are predictive of protest participation. Fifth, the US, China, and Russia are the most over-represented countries by their share of academic studies. We discuss each pattern’s connections to the existing literature and anticipate paths for future work.
 </div> 
 
 
-[**"Evaluating Large Language Models’ Ability to Automate Spear Phishing"**](https://andrew-kao.github.io/files/llm_spearphish.pdf) with Fredrik Heiding, Simon Lermen, Claudio Mayrink Verdun, Bruce Schneier, and Arun Vishwanath - _Expert Systems with Applications (2026)_  
+[**"Evaluating Large Language Models’ Ability to Automate Spear Phishing"**](https://andrew-kao.github.io/files/llm_spearphish.pdf) with Fredrik Heiding, Simon Lermen, Claudio Mayrink Verdun, Bruce Schneier, and Arun Vishwanath   
+_Expert Systems with Applications (2026)_    
 [2 min. summary](https://www.lesswrong.com/posts/GCHyDKfPXa5qsG2cP/human-study-on-ai-spear-phishing-campaigns) [ICML Workshop on Reliable and Responsible Foundation Models (2025)](https://icml.cc/virtual/2025/50888) Press: [Hacker News](https://news.ycombinator.com/item?id=42601681) [Zvi Moshowitz](https://thezvi.substack.com/p/ai-98-world-ends-with-six-word-story?open=false#%C2%A7they-took-our-jobs) [Daniel Miessler](https://newsletter.danielmiessler.com/p/ul-464) [MalwareBytes](https://www.malwarebytes.com/blog/news/2025/01/ai-supported-spear-phishing-fools-more-than-50-of-targets) [CivAI](https://civai.org/p/email-phishing)  
 <a href="#!" class="btn" onclick="show_spearphish()">Abstract</a>
 <div id="spearphish" class="notice--info" style="display:none">
@@ -34,7 +37,8 @@ Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-po
 </div> 
 
 
-[**"Evaluating AI Models’ Capability to Automate Voice Phishing Attacks"**](https://andrew-kao.github.io/files/llm_voicephish.pdf) with Fredrik Heiding, Claudio Mayrink Verdun, Simon Lermen, Vitor Albiero, Lauren Deason, Irina-Elena Veliche, and Christine Lehane - _Expert Systems with Applications (2026)_  
+[**"Evaluating AI Models’ Capability to Automate Voice Phishing Attacks"**](https://andrew-kao.github.io/files/llm_voicephish.pdf) with Fredrik Heiding, Claudio Mayrink Verdun, Simon Lermen, Vitor Albiero, Lauren Deason, Irina-Elena Veliche, and Christine Lehane   
+_Expert Systems with Applications (2026)_   
 <a href="#!" class="btn" onclick="show_voicephish()">Abstract</a>
 <div id="voicephish" class="notice--info" style="display:none">
    Voice phishing (vishing) attacks have traditionally been limited by the need for human operators. The rapid emergence of high-quality AI voice synthesis and large language models (LLMs) reduces this bottleneck and enables scalable, automated scams. In this paper, we conduct a large-scale survey experiment (N=4100) and qualitative interviews (N=12) to assess U.S. adults’ susceptibility to AI-powered voice phishing attacks. Participants were exposed to audio recordings or transcripts of scam scenarios generated using leading voice models such as Llama Full Duplex (Llama FD), Sesame, Gemini, OAI AVM, Play.AI, and ElevenLabs and the corresponding human baselines. The results show high compliance rates. Up to 36% of participants would or might comply with phishing requests in the “relative-in-distress” category. Overall compliance rate across all five scam categories was 16.5%, a striking figure given the low cost and high scalability of AI-automated voice phishing. Caller persuasiveness was the strongest predictor of compliance and certain models (most notably Sesame) achieved ratings comparable to human voices, or sometimes even slightly surpassing them. Our economic analysis suggests that while human-operated vishing is unprofitable at US wages, AI-powered vishing appears to be economically viable for several models. The primary risk of present-day AI-enabled vishing thus lies in the economics of automation rather than novel or “superhuman” persuasive techniques, though these cannot be ruled out for future systems. This raises significant concerns for the design of AI systems, consumer protection, and model release policies.
@@ -42,7 +46,8 @@ Press: [NYT](https://www.nytimes.com/2022/06/25/technology/china-surveillance-po
 
 
 ## Working papers
-**["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman - _Resubmission invited, American Economic Review (2025)_  
+**["Exporting the Surveillance State via Trade in AI"](https://andrew-kao.github.io/files/aitrade_20250402.pdf)** with Martin Beraja, David Yang, and Noam Yuchtman   
+_Resubmission invited, American Economic Review (2025)_   
 Press: [Wired](https://www.wired.com/story/china-is-the-worlds-biggest-face-recognition-dealer/)  [Bulletin of the Atomic Scientists](https://thebulletin.org/2024/06/how-ai-surveillance-threatens-democracy-everywhere/)  
 Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Brookings Center on Regulation and Markets [working paper](https://www.brookings.edu/research/exporting-the-surveillance-state-via-trade-in-ai/)  
 <a href="#!" class="btn" onclick="show_exportai()">Abstract</a>
