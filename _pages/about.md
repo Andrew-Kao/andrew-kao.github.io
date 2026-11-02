@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy, IO, and trade in the context of frontier technologies such as artificial intelligence. I am also an affiliate at Harvard's [Center for American Political Studies](https://caps.gov.harvard.edu/) and [Center for International Development](https://www.hks.harvard.edu/centers/cid). I graduated from the University of Chicago with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2025-11-06.pdf).
+Hello! I am a PhD student in Economics at Harvard. My current research interests include political economy, IO, and trade in the context of digital technologies such as artificial intelligence. I am also an affiliate at Harvard's [Center for American Political Studies](https://caps.gov.harvard.edu/) and [Center for International Development](https://www.hks.harvard.edu/centers/cid). I graduated from the University of Chicago with a BS in computational and applied math and a BA in economics. My CV is located [here](https://andrew-kao.github.io/files/Andrew_Kao_CV_A_2026-11-02.pdf).
 
 
 ## Publications
@@ -64,20 +64,23 @@ Previous versions: NBER [working paper](https://www.nber.org/papers/w31676), Bro
 
 
 
-[**"Economic Espionage and Innovation Restrictions"**](https://andrew-kao.github.io/files/Espionage_draft_20260805.pdf) with Karthik Tadepalli (2026)  
+[**"Stolen Secrets, Open Firms: Economic Espionage and Knowledge Flows"**](https://andrew-kao.github.io/files/Espionage_draft_20260805.pdf) with Karthik Tadepalli (2026)  
 <a href="#!" class="btn" onclick="show_espionage()">Abstract</a>
 <div id="espionage" class="notice--info" style="display:none">
    How do firms navigate the tension between securing proprietary knowledge and remaining open to knowledge flows? We study this tension in the context of economic espionage, compiling a comprehensive dataset of incidents where foreign competitors steal technology from US firms. In an event study design, revenues and R&D at targeted firms decline by 40% within five years, with mechanism analysis suggesting that this loss is driven by obsolescence of the firm's valuable technology. These effects do not appear for firms unsuccessfully targeted for espionage, supporting a causal interpretation. However, we find no evidence that targeted firms become more restrictive on knowledge flows after espionage; firms do not reduce hiring of foreign scientists, patenting with foreign inventors, or international business functions. Overall, espionage has clear economic harms to targeted firms and US industry, but firms appear to value the benefits of inward knowledge flows more than these costs.  
 </div> 
 
+[**"The After Party: Electoral Consequences of Party Bans"** with Matthias Weigand](https://andrew-kao.github.io/files/party_bans_20261102.pdf)  
+[AEA interview](https://www.aeaweb.org/conference/videos/2026/andrew_kao) [Poster](https://andrew-kao.github.io/files/poster_party_bans.pdf)  
+<a href="#!" class="btn" onclick="show_partybans()">Abstract</a>
+<div id="partybans" class="notice--info" style="display:none">
+   We study the electoral consequences of political party bans. We assemble 1,850 party bans since 1900 in 143 countries, and pair them with two case studies and a survey on Germany’s far-right AfD. We find, first, that bans in democracies do not reduce the vote share of the banned party’s ideological faction. This is due to the re-entry of banned parties and neighboring parties shifting platforms toward the banned party. Second, bans raise the probability that this faction is in government, because the banned party is typically a pariah while neighboring parties need not be.  
+</div> 
 
 
 
+<!-- ## Works in progress -->
 
-## Works in progress
-
-**"The After Party: Electoral Consequences of Party Bans"** with Matthias Weigand  
-[AEA interview](https://www.aeaweb.org/conference/videos/2026/andrew_kao) [Poster](https://andrew-kao.github.io/files/poster_party_bans.pdf) 
 
 
 
@@ -148,6 +151,15 @@ function show_voicephish() {
 
 function show_espionage() {
   var x = document.getElementById("espionage");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+  x.style.display = "none";
+  }
+} 
+
+function show_partybans() {
+  var x = document.getElementById("partybans");
   if (x.style.display === "none") {
     x.style.display = "block";
   } else {
